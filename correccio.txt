@@ -1,0 +1,20 @@
+Exercici 1: 2/2
+(a) 1/1
+(b) 1/1
+  Atent perquè realment el percentatge no seria preu_entrada*88/100; seria senzillament 88/100.
+
+  T'ho he comptat bé!
+  
+Exercici 2: 1.5/1.5
+
+Exercici 3: 1.5/1.5
+ 
+Exercici 4: 3.25/4
+Volia que ultima_lletra i primera_lletra es calculessin a partir de la variable nom:
+primera_lletra = nom[0]
+ultima_lletra = nom[-1]
+
+Jupyter: 1/1
+Github: 1/1
+
+Nota final: 10,25/11 --> 9,32
